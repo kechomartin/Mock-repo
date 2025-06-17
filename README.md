@@ -1,5 +1,5 @@
 ### 🌼 Phase 1: Core Layout
-
+<img class="images" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-2968-622f-a9b9-a3259f2e711e/raw?se=2025-06-17T20%3A21%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=7f65528d-1d4a-5559-b2d5-9e93717163e3&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-17T18%3A42%3A34Z&ske=2025-06-18T18%3A42%3A34Z&sks=b&skv=2024-08-04&sig=ZJSPjicesPIqEoMz%2Bx7e29xzqnjnn0nJQKQXq3bpAWU%3D" style="border-radius: 4px; width: 100%; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);"/>
 - [ ] **Navbar**
   - Logo, navigation links (Home, Categories, Contact)
   - Login/Sign Up buttons
