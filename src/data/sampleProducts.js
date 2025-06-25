@@ -17,7 +17,7 @@
   {
     name: "Indoor Green Plant",
     price: 30,
-    image: "/Images/greenplants"
+    image: "/Images/greenplants.png"
   }
 ];
 
