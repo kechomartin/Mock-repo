@@ -1,23 +1,23 @@
-const products = [
+ const products = [
   {
     name: "Red Roses Bouquet",
     price: 25,
-    image: "https://via.placeholder.com/150?text=Red+Roses"
+    image: "/Images/roses.png"
   },
   {
     name: "Sunflower Mix",
     price: 18,
-    image: "https://via.placeholder.com/150?text=Sunflowers"
+    image: "/Images/sunflowermix.png"
   },
   {
     name: "Tulip Arrangement",
     price: 22,
-    image: "https://via.placeholder.com/150?text=Tulips"
+    image: "/Images/tulips.png"
   },
   {
     name: "Indoor Green Plant",
     price: 30,
-    image: "https://via.placeholder.com/150?text=Green+Plant"
+    image: "/Images/greenplants"
   }
 ];
 
