@@ -15,9 +15,9 @@
   - Responsive layout (1-4 columns based on screen size)
 
 - [ ] **Footer**
-  - Contact details (phone, email, location)
+  - Contact us .
   - Social media links (Instagram, Facebook, WhatsApp, Twitter)
-  - Copyright
+  - Copyright 
 
 ---
 
