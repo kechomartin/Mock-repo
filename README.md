@@ -1,3 +1,5 @@
+# Flower Shop
+
 ### 🌼 Phase 1: Core Layout
 
 - [ ] **Navbar**
