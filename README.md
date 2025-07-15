@@ -17,7 +17,7 @@
   - Responsive layout (1-4 columns based on screen size)
 
 - [ ] **Footer**
-  - Contact us .
+  - Contact us 
   - Social media links (Instagram, Facebook, WhatsApp, Twitter)
   - Copyright 
 
